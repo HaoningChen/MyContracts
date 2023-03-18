@@ -1,1 +1,3 @@
-# MyContract
+# MyContracts
+
+记录本人智能合约的学习历程, 水平很菜, 不定期更新
